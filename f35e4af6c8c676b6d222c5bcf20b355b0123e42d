@@ -1,0 +1,9 @@
+Verified+1: Colin Cross <ccross@android.com>
+Autosubmit+1: Colin Cross <ccross@android.com>
+Presubmit-Verified+1: Treehugger Robot <treehugger-gerrit@google.com>
+Code-Review+2: Dan Willemsen <dwillemsen@google.com>
+Submitted-by: Treehugger Robot <treehugger-gerrit@google.com>
+Submitted-at: Fri, 17 Aug 2018 23:10:10 +0000
+Reviewed-on: https://android-review.googlesource.com/733995
+Project: platform/frameworks/opt/bitmap
+Branch: refs/heads/master
